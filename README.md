@@ -1,1 +1,2 @@
-jps3_compiladores_2021.1_task_2
+UFPE_Compiladores_2021.1 - Task_2
+Aluno: João Paulo Scheid (jps3)
